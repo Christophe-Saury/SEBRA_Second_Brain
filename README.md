@@ -6,6 +6,8 @@ https://www.figma.com/file/BWAD9DZzgBcXzpEomuxzqc/SEBRA?type=design&mode=design&
 
 You can see our figma prototype of the app here :
 https://www.figma.com/proto/BWAD9DZzgBcXzpEomuxzqc/UI%2FUX?page-id=0%3A1&type=design&node-id=112-9470&viewport=-981%2C-89%2C0.43&t=VCLsbdOJ5sV5HsBF-1&scaling=scale-down&starting-point-node-id=112%3A9470&mode=design
+Once you open the prototype in a new tab, click on the sebra app.
+
 
 Presentation of our work :
 https://prezi.com/view/YKIkn3boWMr8H1v8dYOh/
@@ -36,6 +38,7 @@ We made user stories and personas that would match the different use cases of su
 
 We made the figma prototype for our app here :
 https://www.figma.com/proto/BWAD9DZzgBcXzpEomuxzqc/UI%2FUX?page-id=0%3A1&type=design&node-id=112-9470&viewport=-981%2C-89%2C0.43&t=VCLsbdOJ5sV5HsBF-1&scaling=scale-down&starting-point-node-id=112%3A9470&mode=design
+Once you open the prototype in a new tab, click on the sebra app.
 
 
 
