@@ -7,6 +7,12 @@ https://www.figma.com/file/BWAD9DZzgBcXzpEomuxzqc/SEBRA?type=design&mode=design&
 You can see our figma prototype of the app here :
 https://www.figma.com/proto/BWAD9DZzgBcXzpEomuxzqc/UI%2FUX?page-id=0%3A1&type=design&node-id=112-9470&viewport=-981%2C-89%2C0.43&t=VCLsbdOJ5sV5HsBF-1&scaling=scale-down&starting-point-node-id=112%3A9470&mode=design
 
+Presentation of our work :
+https://prezi.com/view/YKIkn3boWMr8H1v8dYOh/
+
+_______________________________________________________________________________________________________________________
+**Summary of the work done :**
+
 “Until you make the unconscious conscious, it will direct your life and you will call it fate.” — Carl Jung
 
 Our why :
