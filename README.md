@@ -23,11 +23,11 @@ Unfortunately, it can be hard to track every aspect of our life as the data is u
 
 **Identified problem :**
 When it comes to goals and new years resolutions, according to a survey conducted by forbes health, only 8% of respondents tend to stick with their goals for one month, while 22% last two months, 22% last three months and 13% last four months.
-For the people trying to achieve their goals, their are some factors that make it more harder for them to do so.
+For the people trying to achieve their goals, their are some factors that make it harder for them to do so.
 People tend to have different apps for tracking tracking exercise, walking, activity, expenses in the day, tracking sleep, location, pictures, screen time, study time. It can be annoying to switch from one to the other. 
 
 **Solution :**
-An app that could centralize this data, summarize it and cross-reference it would be extremely helpful. Such an app could also serve other causes.
+An app that could centralize this data, summarize it and cross-reference the data would be extremely helpful. It would help the user see how their effort translates into results better.
 We made user stories and personas that would match the different use cases of such an app.
 
 **Summary :**
